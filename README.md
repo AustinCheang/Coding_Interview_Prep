@@ -6,8 +6,8 @@ My LeetCode study roadmap which follows [NeetCode Roadmap 150 Questions](https:/
 
 | ✅    | Question           | Code |
 | ----- | ------------------ | ---- |
-| - [ ] | Contains Duplicate |      |
-| - [ ] | Valid Anagram | |
+| :heavy_check_mark: | Contains Duplicate |      |
+| :x: | Valid Anagram | |
 | - [ ] | Two Sum | |
 | - [ ] | Group Anagrams | |
 | - [ ] | Top K Frequency Elements | |
